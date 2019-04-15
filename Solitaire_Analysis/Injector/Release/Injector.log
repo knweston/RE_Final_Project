@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Injector.cpp
+c:\users\phat nguyen\downloads\solitaire_analysis\injector\injector.cpp(65): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+c:\users\phat nguyen\downloads\solitaire_analysis\injector\injector.cpp(67): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+c:\users\phat nguyen\downloads\solitaire_analysis\injector\injector.cpp(122): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'LPVOID'
+  LoadLibraryR.cpp
+  Generating code
+  All 169 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Injector.vcxproj -> C:\Users\Phat Nguyen\Downloads\Solitaire_Analysis\Release\Injector.exe

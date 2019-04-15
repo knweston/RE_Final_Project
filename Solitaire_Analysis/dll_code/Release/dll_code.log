@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+  ReflectiveLoader.c
+  Solver.cpp
+c:\users\phat nguyen\downloads\solitaire_analysis\dll_code\solver.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\phat nguyen\downloads\solitaire_analysis\dll_code\solver.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\phat nguyen\downloads\solitaire_analysis\dll_code\solver.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\phat nguyen\downloads\solitaire_analysis\dll_code\solver.cpp(124): warning C4018: '>=': signed/unsigned mismatch
+     Creating library C:\Users\Phat Nguyen\Downloads\Solitaire_Analysis\Release\dll_code.lib and object C:\Users\Phat Nguyen\Downloads\Solitaire_Analysis\Release\dll_code.exp
+  Generating code
+  All 253 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll_code.vcxproj -> C:\Users\Phat Nguyen\Downloads\Solitaire_Analysis\Release\dll_code.dll
